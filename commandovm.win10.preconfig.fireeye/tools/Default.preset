@@ -171,8 +171,10 @@ DisableIEFirstRun               # EnableIEFirstRun
 # UninstallInternetExplorer     # InstallInternetExplorer
 # UninstallWorkFolders          # InstallWorkFolders
 # UninstallPowerShellV2         # InstallPowerShellV2
-# InstallLinuxSubsystem         # UninstallLinuxSubsystem
-# InstallHyperV                 # UninstallHyperV
+# InstallLinuxSubsystem         # 
+UninstallLinuxSubsystem
+# InstallHyperV                 # 
+UninstallHyperV
 # InstallNET23                  # UninstallNET23
 SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
 AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
